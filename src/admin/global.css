@@ -1,0 +1,6 @@
+:root {
+  --medusa-ui-bg-interactive: #0f172a;   /* primary buttons */
+  --medusa-ui-fg-interactive: #ffffff;
+  --medusa-ui-bg-base: #f8fafc;          /* background */
+  --medusa-ui-border-base: #e2e8f0;
+}
