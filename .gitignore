@@ -13,7 +13,6 @@ coverage
 
 ./tsconfig.tsbuildinfo
 medusa-db.sql
-build
 .cache
 
 .yarn/*
@@ -22,5 +21,3 @@ build
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
-
-.medusa
