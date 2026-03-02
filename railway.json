@@ -1,0 +1,10 @@
+{
+  "build": {
+    "builder": "NIXPACKS",
+    "buildCommand": "npm ci",
+    "watchPatterns": []
+  },
+  "deploy": {
+    "startCommand": "npm run start"
+  }
+}
