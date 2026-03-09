@@ -18,6 +18,8 @@ module.exports = defineConfig({
 
   admin: {
     backendUrl: process.env.BACKEND_URL,
-    disable: true
+    disable: false,
+    path: "/app",
+    serve: true
   },
 })
